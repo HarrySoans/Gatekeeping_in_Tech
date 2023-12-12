@@ -1,0 +1,250 @@
+:: StoryTitle
+Gatekeeping in technology
+
+
+:: StoryData
+{
+  "ifid": "46B017DD-87C5-4643-B037-4DEBE29D7E57",
+  "format": "Harlowe",
+  "format-version": "3.3.7",
+  "start": "The Intro",
+  "zoom": 1
+}
+
+
+:: \ You Disagree {"position":"925,1300","size":"100,100"}
+You continue to look around...
+
+
+:: Becoming a mentor {"position":"225,800","size":"100,100"}
+Congrualations you accquire a job as a mentor and now you can finally enhance your skills but also others! You have beaten GateKeepers!
+
+
+:: CompleteProjects {"position":"1350,1150","size":"100,100"}
+You start to take up project oppurtunites which involves free lance work and internships. This leads to a problem...
+
+[[Explore the Problem]]
+
+
+:: ConfidentIntroduction {"position":"850,775","size":"100,100"}
+Your confident introduction catches the attention of some professionals. They start asking about your experience and knowledge. You start to get a bit nervous because you are fresh out of college but you dont faulter. 
+
+How do you respond?
+
+[[You strike up a conversation involving your last project]]
+
+
+:: DevelopSkills {"position":"1112.5,700","size":"100,100"}
+Recognizing the need for more skills, you decide to focus on improving your abilities. The gatekeepers argue that your skills are not up to par.
+
+What's your next move?
+
+[[Enroll in a Coding Bootcamp|Online Coding lessons]]
+
+
+:: DiscussPassion {"position":"800,1125","size":"100,100"}
+You talk about why you are intrsted in the field and share your passion to thrive to become a deligent employee. 
+
+[[End|End]]
+
+
+:: End {"position":"800,1300","size":"100,100"}
+The Employers are fasnicated by your work!
+
+
+:: Exclusive Resources {"position":"1650,700","size":"100,100"}
+The Exclusive Resouces allows you to have a edge behind your code allowing you to become more knowledgeable. You focused on yourself which helped you conqure the gatekeepers. Your hard work and deleigence help you beat the judgemental gatekeepers.
+
+[[GateKeepers Begin to Take you seriously...|They Begin to Take your seriously...]]
+
+
+
+:: Explore the Problem {"position":"1475,1275","size":"100,100"}
+The project that you have been working on violates the patent system. You thought at first the source material was free but inreality it wasnt and the company is demanding exclusive rights to your software. 
+
+[[You agree to give exclusive rights]]
+[[You give up on the project]]
+
+
+:: Funding allocated if... {"position":"1150,1150","size":"100,100"}
+The gatekeepers will give you funding if you allow them to have exlusive rights to the software. (Funding and Investment)
+
+[[You agree to work with them|You Agree]]
+[[You decide to not work with them| You Disagree]]
+
+
+:: Get Higher Education {"position":"1375,525","size":"100,100"}
+You decide you want to attend a graduate college and get a masters degree in the hopes of learning new skills. 
+
+[[Higher Education|You begin your GA Studies ]]
+
+
+:: I want to become mentor {"position":"225,675","size":"100,100"}
+The gatekeepers lure you into their mentorship program but they start asking for credible work and enahnced skills. You look worried but nonetheless you do meet their requriements and you procced to become a mentor 
+
+[[Becoming a mentor]]
+
+
+
+:: Introduction {"position":"1050,575","size":"100,100"}
+You start your journey to accquire a job. Your goal is clear, but you encounter gatekeepers who question your abilities and qualifications. You are conflicted on what to do and feel self doubt. (credentialism)
+
+How will you respond?
+
+[[Attend a Networking Event|NetworkingEvent]]
+[[Develop New Skills/Sharpen your existing skills|DevelopSkills]]
+[[Get Higher Education]]
+[[Job Fair]]
+
+
+:: Job Fair {"position":"625,525","size":"100,100"}
+You are surronded by many hungry unemployed seekers. Your goal is to stand out and you choose to approach a booth called "Open Source Contribution"
+
+
+
+[[Open Source Contribution]]
+
+
+:: NetworkingEvent {"position":"975,700","size":"100,100"}
+You decide to attend a tech networking event. As you approach a group of professionals, they give you skeptical looks. 
+
+How do you handle this?
+
+[[Confidently Introduce Yourself|ConfidentIntroduction]]
+[[Showcase Your Project|ShowcaseProject]]
+
+
+:: Online Coding lessons {"position":"1200,825","size":"100,100"}
+You enroll in a online coding lessons to enhance your skills. The gatekeepers, however, still doubt your abilities.
+
+How do you prove them wrong?
+
+[[Complete Challenging Projects|CompleteProjects]]
+[[Participate in Hackathons and LeapCode|ParticipateHackathons and LeapCode]]
+
+
+:: Open Source Contribution {"position":"450,400","size":"100,100"}
+You start to talk to the people behind the booth. They start to tell you about their project. They ask you about your knowledge in C++. You realize you have no expreince in C++ and sigh. The gatekeepers procced to tell you that their project requries people who are familair with the language. (Open Source Contributions gatekeeping)
+
+[[You move on to the other employers]]
+
+
+:: ParticipateHackathons and LeapCode {"position":"1425,1000","size":"100,100"}
+You indulge in self teaching by participating in high level online coding events. This gets you recognitions from the gatekeepers for your high level creditionals and open source contributions. 
+
+
+[[They begin to take you seriously...]]
+
+
+:: ProblemSolvingProcess {"position":"1175,975","size":"100,100"}
+You discuss how you encountered hurdles through the project and explained how you overcame them. They become fascinated about your work and start to ask you questions. You take this oppurnity  ask them if they will fund your on going project. You have been struggling to allocate funds to deploy your sofwtare. They decide...
+
+
+
+[[Funding allocated if...|Funding allocated if...]]
+
+
+:: ShareAchievements {"position":"575,1175","size":"100,100"}
+You share your impressive achievements, proving your capabilities. The gatekeepers begin to acknowledge your skills.
+
+Congratulations! You've successfully broken through the GateKeepers.
+
+[[End|End]]
+
+
+:: ShowcaseProject {"position":"1075,825","size":"100,100"}
+You decide to showcase a project you've been working on. The gatekeepers become intrigued.
+
+What do you do next?
+
+[[Walk Them Through Your Code|WalkThroughCode]]
+[[Explain the Problem-Solving Process|ProblemSolvingProcess]]
+
+
+:: The Intro {"position":"1025,350","size":"100,100"}
+Welcome to "GateKeepers"
+
+You are Alexander, a college student fresh out of college trying to make it into the work field.
+
+[[Begin Your Journey|Introduction]]
+
+
+:: They Begin to Take your seriously... {"position":"1650,850","size":"100,100"}
+The gatekeepers are intrested in you because you have became more knowledgable and exapnaded your palet. You now are confiedent and attend a networking event. 
+
+[[NetworkingEvent]] 
+
+
+:: They begin to take you seriously... {"position":"1550,1125","size":"100,100"}
+Since you sharpend your creditionals and showed grit the gatekeepers start to take your seriously. 
+
+
+:: WalkThroughCode {"position":"1000,975","size":"100,100"}
+You describe your code and the gatekeepers are fasnicated by your work. They ask you to work for them if you agree to the patent rules. Which means they will control your project that you have worked hard on gaining exclusive rights to inovate your project...
+
+[[You Agree]]
+[[ You Disagree]] 
+
+
+:: You Agree {"position":"1050,1300","size":"100,100"}
+You are hired!
+
+
+:: You Approach the booth {"position":"350,550","size":"100,100"}
+The gatekeeper behind the booth asks you if you want to become a mentor. You become skeptical but say "yes". 
+
+[[I want to become mentor]]
+
+
+
+:: You Can't Speak the language... {"position":"625,725","size":"100,100"}
+The gatekeepers are not intrested in you anymore because the lack of compatibility and the conversation dies out. (Cultural and Language Barrier)
+
+[[End|You move on to the other employers...]]
+
+
+:: You Speak the language! {"position":"625,975","size":"100,100"}
+They are impressed!
+
+[[Share Achievments|ShareAchievements]]
+[[DiscussPassion|DiscussPassion]]
+
+
+:: You agree to give exclusive rights {"position":"1475,1400","size":"100,100"}
+The gatekeepers are happy with your decession and you continue to work on your project. This leads to the gatekeepers hiring you as a contract worker. 
+
+
+:: You begin your GA Studies\  {"position":"1450,675","size":"100,100"}
+In the hopes of outshining other competition by getting a Masters degree you enroll into a stranious Graduate program. You begin your studies and realize that since you are studying as Graduate student you get access to high level resources. 
+
+[[Exclusive Resources]]
+
+
+:: You give up on the project {"position":"1600,1400","size":"100,100"}
+This frustrates you and you abanonded the project. You let the gatekeepers get you. You begin to rethink your life options and attend a job fair. 
+
+[[Job Fair]] 
+
+
+:: You move on to the other employers {"position":"300,325","size":"100,100"}
+You explore other options...
+
+You stumble across another booth called "Looking to Mentor"
+
+[[You Approach the booth]]
+[[You walk away]]
+
+
+:: You move on to the other employers... {"position":"375,750","size":"100,100"}
+You continue to look around... and you are frustrated because you realize that you were gatekept from a job by professionals. 
+
+
+:: You strike up a conversation involving your last project {"position":"800,925","size":"100,100"}
+They are intrested and ask if you speak Chinese because they are looking for people to base in China. 
+
+[[You Can't Speak the language...]] 
+[[You Speak the language!]]
+
+
+:: You walk away {"position":"125,500","size":"100,100"}
+You decide to look around but end up lost and disappointed...
